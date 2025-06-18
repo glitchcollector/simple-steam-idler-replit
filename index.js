@@ -2,8 +2,8 @@ const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 const keep_alive = require('./keep_alive.js')
 
-var username = 'glitchcollector';
-var password = GRXH1UwU XD;
+var username = 
+var password = 
 var shared_secret = process.env.shared;
 
 var games = [730, 440, 570, 438100, 1283700, 550, 239140];  // Enter here AppIDs of the needed games
